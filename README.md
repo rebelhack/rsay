@@ -1,2 +1,2 @@
-# rsay
+# RSay
 A Decentralized Communication Platform
